@@ -35,7 +35,7 @@ cryptography==3.2.1
 DateTime
 deep_translator
 dnspython
-emoji==0.6.0
+emoji==2.0.0
 fonttools
 faker
 glitch_this
